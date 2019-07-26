@@ -5,7 +5,8 @@ import styled from 'styled-components';
 import { ButtonContainer } from './Button';
 
 const img = {
-    height: '60px'
+    height: '60px',
+    color: 'transparent'
 }
 
 export default class Navbar extends Component {
