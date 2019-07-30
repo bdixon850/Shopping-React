@@ -5,7 +5,6 @@ import { ProductConsumer } from '../context';
 
 
 export default class ProductList extends Component {
-   
     render() {
         return (
             <React.Fragment>
@@ -19,14 +18,12 @@ export default class ProductList extends Component {
                                 return value.products.map( product => {
                                     return <Product key={product.id} product={product}/>
                                 })
-
                             }}
                         </ProductConsumer>
                         </div>
                     </div>
                 </div>
             </React.Fragment>
-                // <Product />
            
         );
     }
