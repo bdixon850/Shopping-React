@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+DEPLOYED LINK:
+[https://ecommerce-shopping-react.herokuapp.com]
+
 ## Available Scripts
 
 In the project directory, you can run:
